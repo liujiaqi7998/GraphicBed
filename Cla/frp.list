@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,natfrp.com
 DOMAIN-SUFFIX,frp.cool
 DOMAIN-SUFFIX,frp*
+IP-CIDR,101.33.60.51/32,no-resolve
 
 # frp关键字代理
 DOMAIN-KEYWORD,frp
