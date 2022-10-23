@@ -3,6 +3,7 @@
 # frp经典代理
 DOMAIN-SUFFIX,natfrp.com
 DOMAIN-SUFFIX,frp.cool
+DOMAIN-SUFFIX,frp*
 
 # frp关键字代理
 DOMAIN-KEYWORD,frp
