@@ -14,6 +14,10 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # Todesk
 DOMAIN-SUFFIX,todesk.com
+IP-CIDR,106.75.6.166/24,no-resolve
+IP-CIDR,117.25.158.140/24,no-resolve
+IP-CIDR,58.220.67.198/24,no-resolve
+IP-CIDR,115.227.49.35/24,no-resolve
 
 # oray
 DOMAIN-SUFFIX,oray.com
